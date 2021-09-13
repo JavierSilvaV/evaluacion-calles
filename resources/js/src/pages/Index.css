@@ -1,0 +1,26 @@
+.titulo{
+    margin: auto;
+    width: 50%;
+    border: 5px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: azure;
+    font-size: 200%;
+}
+
+.col-4{
+    padding: 30px;
+    border: 2px solid black;
+    background-color: azure;
+}
+
+.col-auto{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: azure;
+    font-size: 300%;
+}
+
+.col{
+    font-size: 200%;
+}
