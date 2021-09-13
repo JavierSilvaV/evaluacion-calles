@@ -8,8 +8,4 @@ use Illuminate\Database\Eloquent\Model;
 class Provincia extends Model
 {
     use HasFactory;
-    public function region()
-    {
-        return $this->belongsTo(Region::class);
-    }
 }
